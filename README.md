@@ -1,5 +1,5 @@
 # CiraUpdaterAndAnimator
-A simple program to download himawari satellite images - also lets you animate desktop background by directory
+A simple program to download himawari satellite images - also lets you animate desktop background by directory.
 
 This is a simple program that was inspired by a reddit thread.
 
